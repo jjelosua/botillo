@@ -1,0 +1,6 @@
+{
+  "name": "Botillo",
+  "tagline": "Index of unsolved tasks & productivity tips brought up during SRCCON 2016",
+  "body": "### Purpose\r\nThis repo is meant to serve as a future reference for productivity tips and unanswered needs from 2016 SRCCON participants. It will be an index to find solutions to some of the time consuming tasks that we have all thought of during the [\"Time Savers: Avoid boring tasks and learn productivity tips\"](Time Savers: Avoid boring tasks and learn productivity tips) session.\r\n\r\n### Layout\r\nThe repo consists of two main files \r\n* **[Unsolved tasks](Unsolved.md)**: An index of yet to be solved tasks that have been proposed in the session\r\n*  **[Productivity tips](Solutions.md)**: An index of solved tasks with links to the actual solution\r\n\r\n### Contributing\r\nIf you see a task that you know how to solve we will be thrilled to receive pull requests and to include them on the repo. Just remember that this repo will serve as an index so it would be preferable that the solution includes a link to an external resource and that you submit a brief description with it\r\n\r\n### Authors and Contributors\r\nJuan Elosua (@jjelosua) and Marta Alonso (@malon)\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
