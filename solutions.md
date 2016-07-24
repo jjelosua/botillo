@@ -12,8 +12,8 @@ Eos te lorem mollis prodesset. Quem aliquip nostrud ea eum, ullum luptatum qui t
 
 ### External links
 
-* (Install)[#]
-* (Usage)[#]
+* [Install](#)
+* [Usage](#)
 
 ## Solution2
 
@@ -25,5 +25,5 @@ Sea solet lobortis deseruisse ad. Harum atomorum has ne. In mea putant vidisse s
 
 ### External links
 
-* (Install)[#]
-* (Usage)[#]
+* [Install](#)
+* [Usage](#)

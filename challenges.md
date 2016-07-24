@@ -11,4 +11,4 @@ List with a brief description of the task/problem we want to solve.
 * ~~Example solved challenge~~
 
     * Description: Example of a solved challenge
-    * [Solved here](solutions.md#Solution2)
+    * [Solved here](solutions.md#solution2)
