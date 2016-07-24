@@ -10,7 +10,7 @@ The time has come your computer is starting to act weird and you just realized t
 
 Ok, so we need to clean up a bit we are willing to do that, but wait is there a easy way to find out where to start looking where to focus our main efforts?
 
-### ~~Convert a csv file into a JSON file to be used in a web application~
+### ~~Convert a csv file into a JSON file to be used in a web application~~
 
 #### Description
 
