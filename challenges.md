@@ -2,7 +2,7 @@
 
 List with a brief description of the task/problem we want to solve.
 
-### Check where has your HDD space gone
+### Check where has your HDD space has gone when is almost full
 
 #### Description
 
