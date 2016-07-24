@@ -1,15 +1,15 @@
-# botillo unsolved tasks
+# botillo challenges
 
 ## Index
 
-List with a brief description of the problem we want to solve.
+List with a brief description of the task/problem we want to solve.
 
-* Task1
+* Example challenge
 
-    * Description:
-    * Link:
+    * Description: Example of a still open challenge
+    * Solution Link:
 
-* ~~Task2~~
+* ~~Example solved challenge~~
 
-    * Description:
-    * Link: Solved here
+    * Description: Example of a solved challenge
+    * Solution Link: (solutions.md#Solution2)

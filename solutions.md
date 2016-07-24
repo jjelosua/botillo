@@ -1,4 +1,4 @@
-# botillo solutions
+# botillo challenge solutions
 
 ## Index
 
