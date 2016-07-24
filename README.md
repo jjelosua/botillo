@@ -7,7 +7,7 @@ This repo is meant to serve as a future reference for productivity tips and unan
 The repo consists of two main index files
 
 * **[Challenges](challenges.md)**: An index of yet to be solved challenges, should you choose to accept them, proposed during the session
-* **[Solutions](unsolved.md)**: An index of solutions to proposed challenges.
+* **[Solutions](solutions.md)**: An index of solutions to proposed challenges.
 
 ## Contributing
 
