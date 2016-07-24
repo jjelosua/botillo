@@ -1,14 +1,19 @@
-# botillo challenges
+# botillo - Proposed Challenges
 
 List with a brief description of the task/problem we want to solve.
 
+## Example challenge
 
+### Description
 
-* Example challenge
+Example of a still open challenge
 
-    * Description: Example of a still open challenge
+## ~Example solved challenge~
 
-* ~~Example solved challenge~~
+### Description
 
-    * Description: Example of a solved challenge
-    * [Solved here](solutions.md#solution2)
+Example of a solved challenge
+
+### Solution
+
+[Solved here](solutions.md#solution2)

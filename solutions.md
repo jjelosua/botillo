@@ -1,4 +1,4 @@
-# botillo challenge solutions
+# botillo - Challenge Solutions
 
 List with a brief description of the proposed solution and a link to the appropiate instructions page on how to install and use the solutions
 
