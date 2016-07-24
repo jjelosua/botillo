@@ -1,4 +1,4 @@
-# csvjson - part of [csvkit](https://csvkit.readthedocs.io/))
+## csvjson - part of [csvkit](https://csvkit.readthedocs.io/)
 
 For tasks related with csv wrangling, *[csvkit](https://csvkit.readthedocs.io/en/0.9.1/index.html)* is a great tool to have in your toolbox. Created by [@onyxfish](https://twitter.com/onyxfish)
 
