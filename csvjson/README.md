@@ -1,4 +1,6 @@
-## csvjson - part of [csvkit](https://csvkit.readthedocs.io/)
+### Convert a csv file into a JSON file to be used in a web application
+
+Use csvjson - part of [csvkit](https://csvkit.readthedocs.io/)
 
 For tasks related with csv wrangling, *[csvkit](https://csvkit.readthedocs.io/en/0.9.1/index.html)* is a great tool to have in your toolbox. Created by [@onyxfish](https://twitter.com/onyxfish)
 
@@ -24,7 +26,7 @@ As an extra super nice feature csvjson also added support gor geojson generation
 
 Apart from being an amazing and really useful library, the documentation is just as good so please dive in and use it, I promise you want regret it.
 
-### External links
+#### External links
 
 * [Install](https://csvkit.readthedocs.io/en/0.9.1/install.html)
 * [Usage](https://csvkit.readthedocs.io/en/0.9.1/scripts/csvjson.html)

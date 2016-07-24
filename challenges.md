@@ -1,4 +1,4 @@
-## botillo - Proposed Challenges
+## Botillo - Proposed Challenges
 
 List with a brief description of the task/problem we want to solve.
 
