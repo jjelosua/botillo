@@ -18,7 +18,7 @@ As an extra super nice feature csvjson also added support gor geojson generation
 
     $ csvjson --lat latitude --lon longitude --k slug --crs EPSG:4269 -i 4 examples/test_geo.csv
 
-Apart from being an amazing and really useful library, the documentation is just as good, so please dive in and use it, I promise you want regret it.
+Apart from being an amazing and really useful library, the documentation is just as good, so please dive in and use it, I promise you won't regret it.
 
 #### External links
 
