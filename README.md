@@ -1,6 +1,6 @@
 # Botillo
 
-This repo is meant to serve as a future reference for productivity tips and unanswered needs from [2016 SRCCON](http://srccon.org/) participants. It will be an index to find solutions to some of the time consuming tasks that we have all thought of during the [Time Savers: Avoid boring tasks and learn productivity tips](http://schedule.srccon.org/#_session-tips-tricks) session.
+This repo is meant to serve as a future reference for productivity tips and unanswered needs from [2016 SRCCON](http://srccon.org/) participants. It will be an index to find solutions to some of the time consuming tasks that we all have thought of during the [Time Savers: Avoid boring tasks and learn productivity tips](http://schedule.srccon.org/#_session-tips-tricks) session.
 
 ## Layout
 
