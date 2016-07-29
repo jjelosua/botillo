@@ -2,6 +2,25 @@
 
 List with a brief description of the task/problem we want to solve.
 
+## Technical
+
+### Debugging tech issues with google hangouts
+
+#### Solution
+
+* Check logs at chrome://webrtc-logs
+* filesystem: (https://hangouts.google.com/temporary/log_v2)
+
+### Debugging tech issues with google hangouts
+
+#### Solution
+
+* Check logs at chrome://webrtc-logs
+* filesystem: https://hangouts.google.com/temporary/log_v2
+
+## Time management
+
+
 ### Check where has your HDD space has gone when is almost full
 
 #### Description
