@@ -4,20 +4,20 @@ List with a brief description of the task/problem we want to solve.
 
 ## Technical
 
-### Debugging tech issues with google hangouts
+### ~~Debugging tech issues with google hangouts~~
 
 #### Solution
 
 * Check logs at [chrome://webrtc-logs](chrome://webrtc-logs)
 * filesystem: [https://hangouts.google.com/temporary/log_v2](https://hangouts.google.com/temporary/log_v2)
 
-### Why is my computer slow?
+### ~~Why is my computer slow?~~
 
 #### Solution
 
 * Check Activity Monitor
 
-### How can I improve the google sheets export workflow
+### ~~How can I improve the google sheets export workflow~~
 
 #### Solution
 
@@ -26,43 +26,111 @@ List with a brief description of the task/problem we want to solve.
 * google-spreadsheet-to-json (npm)
 * [Copytext](https://github.com/nprapps/copytext)
 
-### Better spreadsheet software than LibreOffice (Excel not an option)
+### ~~Better spreadsheet software than LibreOffice (Excel not an option)~~
 
 #### Solution
 
 * [Airtable.com](Airtable.com)
 
-### Best sublime text shortcuts
+### ~~Best sublime text shortcuts~~
 
 #### Solution
 
 * Multicursor: Find term then CMD+D
 * 2 Columns: CMD+OPT+2
 
-### Stop getting conflicts on built files on the repo
+### ~~Stop getting conflicts on built files on the repo~~
 
 #### Solution
 
 * Do not commit built files. Work on documentation so team members can rebuild without conflicts
 
-### Stop getting conflicts on built files on the repo
+### ~~How to scroll up with no limit output in terminal~~
 
 #### Solution
 
-* Do not commit built files. Work on documentation so team members can rebuild without conflicts
+* Output to file instead
+* On mac Terminal -> Profile -> Terminal -> Check Unlimited Scrolling
 
-## Time management
+### ~~Get statistics of a CSV file~~
 
-* Check logs at chrome://webrtc-logs
-* filesystem: https://hangouts.google.com/temporary/log_v2
+#### Solution
 
-### Check where has your HDD space has gone when is almost full
+* Python:
+    * Pandas + jupyter
+    * csvkit -> csvstats
+* Google sheets has some tools for non coders
+* R: Summary
 
-#### Description
+### ~~How to resize all images in a folder~~
 
-The time has come your computer is starting to act weird and you just realized that you are running out of disk space.
+#### Solution
 
-Ok, so we need to clean up a bit we are willing to do that, but wait is there a easy way to find out where to start looking where to focus our main efforts?
+* Convert
+* Mogrify
+* Windows live photo gallery
+
+### ~~Quick+Dirty way to extract phone preffix from phone without coding~~
+
+#### Solution
+
+* Search +  Replace + RegEx in text editor
+* [OpenRefine](http://openrefine.org/)
+* Text to columns in Google Spreadsheet or excel
+
+### ~~How do I turn 26 million TIFF files into data (some handwritten)~~
+
+#### Solution
+
+* Tesseract-ocr + [Extract](https://github.com/ICIJ/extract) tool developed by ICIJ which integrate tesseract + redis + Apache Solr
+
+### ~~How do I handle "Single Source of truth" Changing?~~
+
+How to automate the pipeline + publish of a database
+
+#### Solution
+
+* [Luigi](https://pypi.python.org/pypi/luigi/2.2.0) python tool
+* Talend data suite
+
+### ~~How to convert shapefile into geojson for using on a webpage~~
+
+#### Solution
+
+* [Ogr2Ogr](http://www.gdal.org/ogr2ogr.html)
+* [QGIS](http://www.qgis.org/en/site/)
+* [Mapshaper.com](http://www.mapshaper.org/)
+
+### ~~Automate the bootstrapping of a project (templating)~~
+
+#### Solution
+
+* [Yeoman](http://yeoman.io/)
+* [NPR Opinionated App-template](https://github.com/nprapps/app-template)
+
+### ~~How to split a pdf into single-page pdfs??~~
+
+#### Solution
+
+* Manually: Drag Page from sidebar into finder on Preview (Mac)
+* PDF Split and Merge ([PDFSAM](http://www.pdfsam.org/))
+
+### ~~Easy way to join pdfs together?~~
+
+#### Solution
+
+* MAC - [PDFPEN](https://smilesoftware.com/pdfpen)
+* Open them all in preview: Print -> Save as PDF
+* [PDFSAM](http://www.pdfsam.org/)
+* Adobe Acrobat
+
+### ~~Setting the working directory so that it's dynamic when changing computers?~~
+
+#### Solution
+
+* [Dropbox](https://www.dropbox.com/home)
+* RelativePaths: "./"
+* Home Folder: "~/"
 
 ### ~~Convert a csv file into a JSON file to be used in a web application~~
 
