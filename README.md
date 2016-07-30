@@ -15,8 +15,8 @@ We are really happy with the participation during the session here is an image t
 
 The repo consists of two main index files
 
-* **[Technical Challenges](technical_challenges.md)**: An index solved/unsolved technical challenges and their solutions
-* **[Time Management Challenges](time_management_challenges.md)**: An index solved/unsolved technical challenges and their solutions
+* **[Technical Challenges](technical-challenges.md)**: An index solved/unsolved technical challenges and their solutions
+* **[Time Management Challenges](time-management-challenges.md)**: An index solved/unsolved technical challenges and their solutions
 
 ## Contributing
 
