@@ -141,3 +141,8 @@ A nice CSV file has arrived to our hands and we want to use it for our next web 
 Wouldn't it be nice to find a tool that does that conversion for us without too much hassle?
 
 #### [Solution](csvjson/README.md)
+
+
+### Make my computer presentations ready? (e.g. turn off notifications etc.)
+
+### Pin terminal so it appears 1st (linux & mac)
