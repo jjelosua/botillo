@@ -2,39 +2,114 @@
 
 List with a brief description of the task/problem we want to solve.
 
-## Technical
-
-### Debugging tech issues with google hangouts
-
-#### Solution
-
-* Check logs at chrome://webrtc-logs
-* filesystem: (https://hangouts.google.com/temporary/log_v2)
-
-### Debugging tech issues with google hangouts
-
-#### Solution
-
-* Check logs at chrome://webrtc-logs
-* filesystem: https://hangouts.google.com/temporary/log_v2
-
 ## Time management
 
 
-### Check where has your HDD space has gone when is almost full
+### ~~How to optimize workflow within the team to avoid repetitive work?~~
 
-#### Description
+#### Solution
 
-The time has come your computer is starting to act weird and you just realized that you are running out of disk space.
+* Project management tool (Trello, Slack)
+* Talk to your team
+* Trust your teammates
+* Document everything repetitive - Running thru checklist is faster than trying to remember steps 
 
 Ok, so we need to clean up a bit we are willing to do that, but wait is there a easy way to find out where to start looking where to focus our main efforts?
 
-### ~~Convert a csv file into a JSON file to be used in a web application~~
+### ~~Waiting for people to show up to meetings~~
 
-#### Description
+#### Solution
 
-A nice CSV file has arrived to our hands and we want to use it for our next web app, but it would be much easier for us to have it in a json format to handle it easily in Javascript.
+* Slack integrations
+* 5 minutes buffer between meetings
 
-Wouldn't it be nice to find a tool that does that conversion for us without too much hassle?
+### ~~Setting up Trello~~
 
-#### [Solution](csvjson/README.md)
+#### Solution
+
+Templatized Trello boards
+
+### ~~Update your own Trello card~~
+
+#### Solution
+
+Notifications
+
+### ~~Cool slack hacks~~
+
+#### Solution
+
+* Zapier / IFTTT
+* Slackin
+* Kifi (save links)
+* Travis (GH bot)
+
+### ~~When to take time to document?~~
+
+#### Solution
+
+Recurring documentation days
+
+### ~~How do I juggle a dozen projects and all the associated tasks?~~
+
+#### Solution
+
+Trello & Time blocking
+
+### ~~How do I stay focused amidst the land of notifications, etc (avoid distractions)?~~
+
+#### Solution
+
+* Pomodoro Technique
+* Time blocking
+
+### ~~How to best set expectations & goals?~~
+
+#### Solution
+
+* Be honest
+* Communicate from beginning
+* Give yourself leeway
+
+### ~~Context-switching~~
+
+#### Solution
+
+No meeting zones & sign off slack
+
+### ~~How to better estimate effort/time on a code project?~~
+
+#### Solution
+
+Reporting back how long things take
+
+### ~~To-Do list overboard~~
+
+#### Solution
+
+Priorities are like arms: if you have more than 2 of them, your lying.
+* Triage
+* Prioritize
+
+### ~~People asking too many questions~~
+
+#### Solution
+
+DOCS
+
+### ~~Too many windows open~~
+
+#### Solution
+
+* Chrome extension that limits how many you can open
+* [OneTab](https://www.one-tab.com/)
+
+
+### ~~Too much slacks convos~~
+
+#### Solution
+
+* Stablish team rules or best practices (@here, @channel, @name)
+* Don't try to read all the messages (slack, inbox)
+* [kfei/slack-cleaner](https://github.com/kfei/slack-cleaner)
+
